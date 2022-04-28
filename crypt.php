@@ -21,7 +21,7 @@
 <div class="container">
     <div class="mt-3">
     <div class="alert alert-primary">Silahkan Encrypt Di bawah ini</div>
-    <form action="/generatepassword/crypt.php" method="POST">
+    <form action="/generatepassword/crypt" method="POST">
     <div class="my-3">
     <div class="mb-3">
     <label for="crypt1" class="form-label">Crypt 1</label>

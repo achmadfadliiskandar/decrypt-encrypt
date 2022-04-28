@@ -40,7 +40,7 @@
     </div>
     <div class="col-lg-6">
         <!-- decode -->
-        <form action="/generatepassword/base64.php" method="post">
+        <form action="/generatepassword/base64" method="post">
         <div class="mb-3">
         <label for="exampleFormControlTextarea1" class="form-label">Base 64 Decode</label>
         <textarea class="form-control" id="exampleFormControlTextarea1" name="decode" rows="3"></textarea>

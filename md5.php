@@ -21,7 +21,7 @@
 <div class="container">
     <div class="mt-3">
     <div class="alert alert-primary">Silahkan Encrypt Di bawah ini</div>
-    <form action="/generatepassword/md5.php" method="post">
+    <form action="/generatepassword/md5" method="post">
     <div class="mb-3">
     <label for="md5" class="form-label">Encrypt Md 5</label>
     <textarea class="form-control" id="md5" name="md5" rows="3"></textarea>

@@ -21,7 +21,7 @@
 <div class="container">
     <div class="alert alert-primary">Silahkan Encrypt Di bawah ini</div>
     <div class="mb-3">
-    <form action="/generatepassword/password_hash.php" method="post">
+    <form action="/generatepassword/password_hash" method="post">
     <label for="exampleFormControlTextarea1" class="form-label">Encrypt Password Hash</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" name="generate" rows="3"></textarea>
     <button type="submit" name="submit" class="btn btn-primary my-4 w-100">Encrypt Now</button>
